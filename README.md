@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm HAMSE ESSE JAMA 👋
 
-<!--
-**hamse-esse480/hamse-esse480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Public Health & Epidemiology | Health Data Analyst
 
-Here are some ideas to get you started:
+I am a public health and epidemiology professional interested in health data analysis, epidemiological research, data cleaning, and evidence-based decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- Excel
+- SQL Server / SSMS
+- SPSS
+- Stata
+- EpiData
+- KoboToolbox
+
+### 📊 Featured Projects
+
+- Somaliland Health Facilities SARA Analysis
+- BPCR Hargeisa Analysis
+- Metabolic Syndrome Hargeisa Analysis
+- Maternal Health Risk SQL Analysis
+- Diabetes Health Indicators SQL Analysis
+
+### 🎯 Career Interests
+
+- Health Data Analysis
+- Epidemiology
+- Public Health Research
+- Health Information & Data Management
+
+### 📚 Currently Developing
+
+- SQL
+- Data Analysis
+- Data Visualization
+- Power BI
