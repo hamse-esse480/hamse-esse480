@@ -11,6 +11,7 @@ I am a public health and epidemiology professional interested in health data ana
 - Microsoft Excel — data cleaning, validation, descriptive analysis
 - SQL Server / SQL Server Management Studio (SSMS) — querying and analysis
 - Power BI — dashboard development and data visualization
+- R Programming — data manipulation, statistical analysis, and visualization (currently learning)
 - SPSS
 - Stata
 - EpiData
