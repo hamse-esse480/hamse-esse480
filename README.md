@@ -4,15 +4,15 @@
 
 I am a public health and epidemiology professional interested in health data analysis, epidemiological research, data cleaning, and evidence-based decision-making.
 
-### 🛠️ Skills & Tools
+### 🛠️ Tools & Skills
 
-- Microsoft Excel
-- SQL Server / SQL Server Management Studio (SSMS)
-- Power BI
+- Microsoft Excel — data cleaning, validation, descriptive analysis
+- SQL Server / SQL Server Management Studio (SSMS) — querying and analysis
 - SPSS
 - Stata
 - EpiData
 - KoboToolbox
+- Power BI — dashboard development and data visualization
 
 ### 📊 Featured Projects
 
@@ -36,8 +36,15 @@ I am a public health and epidemiology professional interested in health data ana
 - Public Health Research
 - Health Information & Data Management
 
-### 📚 Currently Developing
+### 📚 Currently Learning
 
 - R for epidemiology and health data analysis
-- SQL and data analysis
-- Data visualization and Power BI
+- Further SQL practice and query optimization
+- Improving data visualization and dashboard storytelling
+
+### 🔗 Professional Links
+
+- LinkedIn: add your LinkedIn profile URL
+- CV: add a public PDF CV link if you want it included
+
+> Replace the two link prompts above with your real links before publishing them as final profile details.
