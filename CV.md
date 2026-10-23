@@ -1,10 +1,12 @@
 # HAMSE ESSE JAMA
-**Public Health | Epidemiology | Health Research**
+**Public Health & Epidemiology | Health Data Analyst | Health Research**
 
 Hargeisa, Somaliland  
 Phone: +252 063-4802537 | +252 065-9241046  
 Email: hamseessa.dr340@gmail.com  
-LinkedIn: [linkedin.com/in/hamse-essa-8a1065269](https://www.linkedin.com/in/hamse-essa-8a1065269/)
+LinkedIn: [linkedin.com/in/hamse-essa-8a1065269](https://www.linkedin.com/in/hamse-essa-8a1065269/)  
+GitHub Profile: [github.com/hamse-esse480](https://github.com/hamse-esse480)  
+Project Portfolio: [Health Data Analysis Projects](https://github.com/hamse-esse480#-featured-projects)
 
 ---
 
@@ -69,6 +71,18 @@ Public Health professional with a Bachelor of Science in Public Health and curre
 - **Diploma in Sharia Studies** — Macadul Al IbnuBaas | 2015–2018
 - **Secondary School Certificate** — Tima Ade Secondary School | 2015–2019
 - **Primary School Certificate** — Sh Muxumed Warsame | 2007–2014
+
+## Selected Health Data Projects
+
+- [Somaliland Health Facilities SARA Survey Analysis](https://github.com/hamse-esse480/somaliland-health-facilities-sara-analysis) — Excel-based facility survey analysis and data-quality review.
+- [BPCR Hargeisa Analysis](https://github.com/hamse-esse480/bpcr-hargeisa-analysis) — descriptive analysis of birth preparedness and complication readiness.
+- [Metabolic Syndrome Hargeisa Analysis](https://github.com/hamse-esse480/metabolic-syndrome-hargeisa-analysis) — descriptive analysis of metabolic and clinical indicators.
+- [Maternal Health Risk SQL Analysis](https://github.com/hamse-esse480/maternal-health-risk-sql-analysis) — SQL Server data checks, descriptive statistics, and bivariate analysis.
+- [Diabetes Health Indicators SQL Analysis](https://github.com/hamse-esse480/diabetes-health-indicators-sql-analysis) — SQL-based analysis of diabetes-related health indicators.
+- [Child Fever & Care-Seeking Power BI Dashboard](https://github.com/hamse-esse480/child-fever-care-seeking-powerbi-dashboard) — interactive dashboard on timely and delayed care-seeking.
+- [Healthcare Management Power BI Dashboard](https://github.com/hamse-esse480/healthcare-management-powerbi) — analysis of patient activity, appointments, treatments, billing, and revenue.
+
+These are portfolio projects for demonstrating analytical practice. Findings and project documentation should be interpreted in line with each repository's stated data sources and limitations.
 
 ## Certifications & Training
 
