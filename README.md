@@ -6,8 +6,9 @@ I am a public health and epidemiology professional interested in health data ana
 
 ### 🛠️ Skills & Tools
 
-- Excel
-- SQL Server / SSMS
+- Microsoft Excel
+- SQL Server / SQL Server Management Studio (SSMS)
+- Power BI
 - SPSS
 - Stata
 - EpiData
@@ -15,11 +16,18 @@ I am a public health and epidemiology professional interested in health data ana
 
 ### 📊 Featured Projects
 
-- Somaliland Health Facilities SARA Analysis
-- BPCR Hargeisa Analysis
-- Metabolic Syndrome Hargeisa Analysis
-- Maternal Health Risk SQL Analysis
-- Diabetes Health Indicators SQL Analysis
+#### Health Data Analysis
+1. [Somaliland Health Facilities SARA Survey Analysis](https://github.com/hamse-esse480/somaliland-health-facilities-sara-analysis) — Excel-based facility survey analysis.
+2. [BPCR Hargeisa Analysis](https://github.com/hamse-esse480/bpcr-hargeisa-analysis) — maternal health descriptive analysis using Excel.
+3. [Metabolic Syndrome Hargeisa Analysis](https://github.com/hamse-esse480/metabolic-syndrome-hargeisa-analysis) — descriptive analysis of metabolic and clinical indicators using Excel.
+
+#### SQL Projects
+4. [Maternal Health Risk SQL Analysis](https://github.com/hamse-esse480/maternal-health-risk-sql-analysis) — data validation, cleaning, descriptive and bivariate analysis in SQL Server.
+5. [Diabetes Health Indicators SQL Analysis](https://github.com/hamse-esse480/diabetes-health-indicators-sql-analysis) — analysis of diabetes-related indicators using SQL Server.
+
+#### Power BI Dashboards
+6. [Child Fever & Care-Seeking Dashboard](https://github.com/hamse-esse480/child-fever-care-seeking-powerbi-dashboard) — interactive analysis of timely and delayed care-seeking.
+7. [Healthcare Management Dashboard](https://github.com/hamse-esse480/healthcare-management-powerbi) — patient, appointment, treatment, doctor, billing, and revenue analysis.
 
 ### 🎯 Career Interests
 
@@ -30,7 +38,6 @@ I am a public health and epidemiology professional interested in health data ana
 
 ### 📚 Currently Developing
 
-- SQL
-- Data Analysis
-- Data Visualization
-- Power BI
+- R for epidemiology and health data analysis
+- SQL and data analysis
+- Data visualization and Power BI
