@@ -4,7 +4,7 @@
 
 I am a public health and epidemiology professional interested in health data analysis, epidemiological research, data cleaning, and evidence-based decision-making.
 
-**[View my CV](CV.md)** · [LinkedIn](https://www.linkedin.com/in/hamse-essa-8a1065269/) · [View selected projects](#-featured-projects)
+** · [View selected projects](#-featured-projects)
 
 ### 🛠️ Tools & Skills
 
